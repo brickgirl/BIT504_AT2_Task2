@@ -15,11 +15,13 @@ public class Cell {
 	public Cell(int row, int col) {
 		
 		// TODO: Initialise the variables row, col 
-
-		
+		this.col = col;
+		this.row = row;
+		//row = GameMain.ROWS;
+		//col = GameMain.COLS;
 		
 		//TODO: call the method that sets the cell content to EMPTY
-		 
+		clear();
 	}
 	
 
@@ -49,7 +51,7 @@ public class Cell {
 		
 		// TODO: Set the value of content to Empty (Remember this is an enum)
 
-		
+		content = Player.Empty;
 	}
 		
 }
