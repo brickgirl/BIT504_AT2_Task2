@@ -1,4 +1,15 @@
 # BIT504_AT2_Task2
+experiment_3
+Changes to source code:
+BOARD
+hasWon method - checks reverse diagonal for 3 in a row.
+
+GAMEMAIN
+mouseClicked method - add repain method to redraw the graphics on the User Interface.
+
+Tic Tac Toe source code is functioning.
+
+experiment_2
 Changes to Source Code:
 GAMEMAIN
 Add MouseEvent on MouseClicked event listener to 'this'.
@@ -22,3 +33,4 @@ Correct spelling of constant GRID_WIDTH_HALF.
 
 GAMESTATE
 Create the enumeration for the variable GameState currentState.
+
