@@ -9,7 +9,6 @@ Set the default close operation of the frame to exit_on_close.
 Status bar to display messages - X's turn and O's turn.
 Check which player has won and update currentstate.
 When game is a draw set the currentstate to the draw gamestate.
-When game is over redraw the graphics on the UI
 
 CELL
 Initialise variables row, col.
