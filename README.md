@@ -18,7 +18,6 @@ Set the value of content to Empty.
 BOARD
 Initialise the cells array.
 Check whether the game has ended in a draw.
-Check if the player has 3 in a column and check if player has 3 in reverse diagonal.
 Correct spelling of constant GRID_WIDTH_HALF.
 
 GAMESTATE
